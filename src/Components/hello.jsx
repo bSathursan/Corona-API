@@ -3,7 +3,6 @@ import axios from "axios";
 import { Table} from "antd";
 import { Bar } from "@ant-design/charts";
 
-
 export default class Hello extends Component {
   state = {
     countries: [],
